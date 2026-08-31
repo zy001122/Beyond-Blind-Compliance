@@ -1,0 +1,5 @@
+paddlepaddle>=3.0.0
+paddleocr>=3.0.0
+openai>=1.0.0
+pillow>=9.5.0
+tqdm>=4.65.0
