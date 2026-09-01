@@ -2,7 +2,7 @@
 
 ## Updates
 
-- [2026/09] Initial code release.
+- [2026/08] Initial code release.
 - [2026/08] Accepted to EMNLP 2026 Main Conference.
 
 ## Contents
